@@ -1,0 +1,1 @@
+module.export = "I'm module A";

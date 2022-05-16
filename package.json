@@ -1,0 +1,22 @@
+{
+  "name": "@viktorsebok/npm-test-package-a",
+  "version": "1.0.0",
+  "description": "Bundle dep test. This is the package which will be bundled...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "@viktorsebok:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorsebok/npm-test-package-a.git"
+  },
+  "author": "Viktor Sebok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorsebok/npm-test-package-a/issues"
+  },
+  "homepage": "https://github.com/viktorsebok/npm-test-package-a#readme"
+}
