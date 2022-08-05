@@ -1,5 +1,5 @@
 {
-    "name": "@viktorsebok/npm-test-package-a",
+    "name": "@jcansdale-test/npm-test-package-a",
     "version": "1.0.2",
     "description": "Bundle dep test. This is the package which will be bundled...",
     "main": "index.js",
